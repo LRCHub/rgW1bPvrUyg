@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "just friends",
+  "base_artist": "potsu",
+  "createdAt": "2026-03-18T05:10:17.501598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Amy Winehouse",
+      "has_synced": true,
+      "path": "select/01_Just_Friends_Amy_Winehouse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "More Than Just Friends",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/02_More_Than_Just_Friends_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Nine Black Alps",
+      "has_synced": true,
+      "path": "select/03_Just_Friends_Nine_Black_Alps.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Morgan Saint",
+      "has_synced": true,
+      "path": "select/04_Just_Friends_Morgan_Saint.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/05_Just_Friends_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We're Just Friends",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/06_We're_Just_Friends_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/07_Just_Friends_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "just friends",
+      "artist": "potsu",
+      "has_synced": true,
+      "path": "select/08_just_friends_potsu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Chromeo feat. Amber Mark",
+      "has_synced": true,
+      "path": "select/09_Just_Friends_Chromeo_feat._Amber_Mark.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Helen Merrill",
+      "has_synced": false,
+      "path": "select/10_Just_Friends_Helen_Merrill.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Helen Merril & Stan Getz",
+      "has_synced": false,
+      "path": "select/11_Just_Friends_Helen_Merril_&_Stan_Getz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Diane Schuur & Maynard Ferguson",
+      "has_synced": false,
+      "path": "select/12_Just_Friends_Diane_Schuur_&_Maynard_Ferguson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just Friends",
+      "artist": "Chet Baker",
+      "has_synced": true,
+      "path": "select/13_Just_Friends_Chet_Baker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just Friends (Sunny)",
+      "artist": "Musiq",
+      "has_synced": true,
+      "path": "select/14_Just_Friends_(Sunny)_Musiq.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Friends (Sunny)",
+      "artist": "Musiq Soulchild",
+      "has_synced": true,
+      "path": "select/15_Just_Friends_(Sunny)_Musiq_Soulchild.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Something Just Like This (Mixed)",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/16_Something_Just_Like_This_(Mixed)_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "(Do You Love Me) Just Say Yes",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/17_(Do_You_Love_Me)_Just_Say_Yes_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "(When You Feel Like You're In Love) Don't Just Stand There",
+      "artist": "Carl Smith",
+      "has_synced": false,
+      "path": "select/18_(When_You_Feel_Like_You're_In_Love)_Don't_Just_Stand_There_Carl_Smith.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ain't Just a Southern Thing",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/19_Ain't_Just_a_Southern_Thing_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Heaven's Just a Sin Away",
+      "artist": "Kendalls",
+      "has_synced": true,
+      "path": "select/20_Heaven's_Just_a_Sin_Away_Kendalls.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Heaven's Just a Sin Away (Re-Recorded In Stereo)",
+      "artist": "The Kendalls",
+      "has_synced": true,
+      "path": "select/21_Heaven's_Just_a_Sin_Away_(Re-Recorded_In_Stereo)_The_Kendalls.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) - 2006 Remastered Version",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/22_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_-_2006_Remastered_Version_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) (2006 Remastered LP Version)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/23_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_(2006_Remastered_LP_Version)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Just Came Home To Count The Memories",
+      "artist": "Gillian Welch feat. David Rawlings",
+      "has_synced": true,
+      "path": "select/24_I_Just_Came_Home_To_Count_The_Memories_Gillian_Welch_feat._David_Rawlings.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Just Came Home To Count The Memories",
+      "artist": "Gillian Welch",
+      "has_synced": true,
+      "path": "select/25_I_Just_Came_Home_To_Count_The_Memories_Gillian_Welch.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Just Can't Get Her Out Of My Mind",
+      "artist": "Johnny Rodriguez",
+      "has_synced": true,
+      "path": "select/26_I_Just_Can't_Get_Her_Out_Of_My_Mind_Johnny_Rodriguez.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I Just Wanna Hold You",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/27_I_Just_Wanna_Hold_You_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Just Want To Dance With You",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/28_I_Just_Want_To_Dance_With_You_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I Just Want To Dance With You (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/29_I_Just_Want_To_Dance_With_You_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I Just Wanted You To Know",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/30_I_Just_Wanted_You_To_Know_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Just Wanted You To Know",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/31_I_Just_Wanted_You_To_Know_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "just friends",
+      "artist": "potsu",
+      "has_synced": false,
+      "path": "select/pl_01_just_friends_potsu.txt"
+    }
+  ]
+}
